@@ -1,0 +1,1060 @@
+{
+    "category": [
+        {
+            "category_name": "indoor",
+            "category_url": "https://www.ideal-lux.com/en/products/indoor",
+            "subcategories": [
+                {
+                    "category_name": "Hanging",
+                    "products": [
+                        {
+                            "product_id": "barby_sp6",
+                            "product_name": "IDEAL LUX BARBY SP6",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/barby_sp6/",
+                            "product_subcategory": "Hanging",
+                            "product_description": "code 190778 Matt varnished metal base and frame. Opal color plastic diffuser screen. Integrated LED sources.",
+                            "product_dimension": {
+                                "text": "20000h 1950lumen L 77 x H min 18 / max 123,5 x P 14,5 cm LED 30W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "barby_sp6/descArt/artwork0.png",
+                                    "barby_sp6/descArt/artwork1.png",
+                                    "barby_sp6/descArt/artwork2.png"
+                                ],
+                                "alternate_artworks": [
+                                    "barby_sp6/altArt/alternate0.png",
+                                    "barby_sp6/altArt/alternate1.jpg"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "fish_sp3",
+                            "product_name": "IDEAL LUX FISH SP3",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/fish_sp3/",
+                            "product_subcategory": "Hanging",
+                            "product_description": "code 196961 Matt varnished metal ceiling rose, pole and diffuser. Steel cable with chromed metal support. Integrated LED with opal color screen.",
+                            "product_dimension": {
+                                "text": "20000h 1400lumen \u00d8 140 x H min 58 / max 253 cm LED 18W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "fish_sp3/descArt/artwork0.png",
+                                    "fish_sp3/descArt/artwork1.png",
+                                    "fish_sp3/descArt/artwork2.png"
+                                ],
+                                "alternate_artworks": [
+                                    "fish_sp3/altArt/alternate0.png",
+                                    "fish_sp3/altArt/alternate1.png"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "fish_sp6",
+                            "product_name": "IDEAL LUX FISH SP6",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/fish_sp6/",
+                            "product_subcategory": "Hanging",
+                            "product_description": "code 196985 Matt varnished metal ceiling rose, pole and diffuser. Steel cable with chromed metal support. Integrated LED with opal color screen.",
+                            "product_dimension": {
+                                "text": "20000h 2800lumen \u00d8 160 x H min 58 / max 253 cm LED 37W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "fish_sp6/descArt/artwork0.png",
+                                    "fish_sp6/descArt/artwork1.png",
+                                    "fish_sp6/descArt/artwork2.png"
+                                ],
+                                "alternate_artworks": [
+                                    "fish_sp6/altArt/alternate0.png",
+                                    "fish_sp6/altArt/alternate1.png",
+                                    "fish_sp6/altArt/alternate2.jpg"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "pop_sp10",
+                            "product_name": "IDEAL LUX POP SP10",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/pop_sp10/",
+                            "product_subcategory": "Hanging",
+                            "product_description": "code 186801 Metal ceiling cup, frame and bulb socket cover with matt varnish finish. Cables adjustable in length.",
+                            "product_dimension": {
+                                "text": "\u00d8 90 x H min 105 / max 187 cm E27 max 10 x 60W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "pop_sp10/descArt/artwork0.png",
+                                    "pop_sp10/descArt/artwork1.png"
+                                ],
+                                "alternate_artworks": [
+                                    "pop_sp10/altArt/alternate0.png",
+                                    "pop_sp10/altArt/alternate1.jpg"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "pop_sp6",
+                            "product_name": "IDEAL LUX POP SP6",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/pop_sp6/",
+                            "product_subcategory": "Hanging",
+                            "product_description": "code 186795 Metal ceiling cup, frame and bulb socket cover with matt varnish finish. Cables adjustable in length.",
+                            "product_dimension": {
+                                "text": "\u00d8 54 x H min 100 / max 182 cm E27 max 6 x 60W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "pop_sp6/descArt/artwork0.png",
+                                    "pop_sp6/descArt/artwork1.png"
+                                ],
+                                "alternate_artworks": [
+                                    "pop_sp6/altArt/alternate0.png",
+                                    "pop_sp6/altArt/alternate1.png"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "karousel_sp10",
+                            "product_name": "IDEAL LUX KAROUSEL SP10",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/karousel_sp10/",
+                            "product_subcategory": "Hanging",
+                            "product_description": "code 206394 Metal frame with satin brass finish. White overlay acid-etched blown glass diffuser.",
+                            "product_dimension": {
+                                "text": "\u00d8 82,5 x H min 112 / max 133 cm G9 max 10 x 15W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "karousel_sp10/descArt/artwork0.png",
+                                    "karousel_sp10/descArt/artwork1.png",
+                                    "karousel_sp10/descArt/artwork2.png"
+                                ],
+                                "alternate_artworks": [
+                                    "karousel_sp10/altArt/alternate0.png",
+                                    "karousel_sp10/altArt/alternate1.jpg",
+                                    "karousel_sp10/altArt/alternate2.jpg"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "karousel_sp6",
+                            "product_name": "IDEAL LUX KAROUSEL SP6",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/karousel_sp6/",
+                            "product_subcategory": "Hanging",
+                            "product_description": "code 206387 Metal frame with satin brass finish. White overlay acid-etched blown glass diffuser.",
+                            "product_dimension": {
+                                "text": "\u00d8 72 x H min 97,5 / max 127 cm G9 max 6 x 15W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "karousel_sp6/descArt/artwork0.png",
+                                    "karousel_sp6/descArt/artwork1.png",
+                                    "karousel_sp6/descArt/artwork2.png"
+                                ],
+                                "alternate_artworks": [
+                                    "karousel_sp6/altArt/alternate0.png"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "versus_sp168_round",
+                            "product_name": "IDEAL LUX VERSUS SP168 ROUND",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/versus_sp168_round/",
+                            "product_subcategory": "Hanging",
+                            "product_description": "code 137032 Chrome metal frame. Decorative elements are made of square mesh fob-chains. Steel wires adjustable in length with automatic blocking mechanisms.",
+                            "product_dimension": {
+                                "text": "30000h 3300lumen \u00d8 51 x H min 55 / max 122 cm LED 33,6W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "versus_sp168_round/descArt/artwork0.png",
+                                    "versus_sp168_round/descArt/artwork1.png",
+                                    "versus_sp168_round/descArt/artwork2.png"
+                                ],
+                                "alternate_artworks": [
+                                    "versus_sp168_round/altArt/alternate0.png",
+                                    "versus_sp168_round/altArt/alternate1.jpg"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "versus_sp216_oval",
+                            "product_name": "IDEAL LUX VERSUS SP216 OVAL",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/versus_sp216_oval/",
+                            "product_subcategory": "Hanging",
+                            "product_description": "code 137056 Chrome metal frame. Decorative elements are made of square mesh fob-chains. Steel wires adjustable in length with automatic blocking mechanisms.",
+                            "product_dimension": {
+                                "text": "30000h 4300lumen L 114,5 x H min 40 / max 115,5 x P 15,5 cm LED 43,2W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "versus_sp216_oval/descArt/artwork0.png",
+                                    "versus_sp216_oval/descArt/artwork1.png",
+                                    "versus_sp216_oval/descArt/artwork2.png"
+                                ],
+                                "alternate_artworks": [
+                                    "versus_sp216_oval/altArt/alternate0.png"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "cosmo_sp15",
+                            "product_name": "IDEAL LUX COSMO SP15",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/cosmo_sp15/",
+                            "product_subcategory": "Hanging",
+                            "product_description": "code 133058 Metal frame with copper finish. Round rotating elements freely adjustable.",
+                            "product_dimension": {
+                                "text": "L 88 x H min 45 / max 153 x P 63 cm E14 max 15 x 40W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "cosmo_sp15/descArt/artwork0.png",
+                                    "cosmo_sp15/descArt/artwork1.png"
+                                ],
+                                "alternate_artworks": [
+                                    "cosmo_sp15/altArt/alternate0.png",
+                                    "cosmo_sp15/altArt/alternate1.jpg"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "cosmo_sp9",
+                            "product_name": "IDEAL LUX COSMO SP9",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/cosmo_sp9/",
+                            "product_subcategory": "Hanging",
+                            "product_description": "code 133041 Metal frame with copper finish. Round rotating elements freely adjustable.",
+                            "product_dimension": {
+                                "text": "L 73 x H min 65 / max 167 x P 61,5 cm E14 max 9 x 40W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "cosmo_sp9/descArt/artwork0.png",
+                                    "cosmo_sp9/descArt/artwork1.png"
+                                ],
+                                "alternate_artworks": [
+                                    "cosmo_sp9/altArt/alternate0.png"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "orbital_sp10",
+                            "product_name": "IDEAL LUX ORBITAL SP10",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/orbital_sp10/",
+                            "product_subcategory": "Hanging",
+                            "product_description": "code 073828 Chrome frame composed of rotating concentric rings. Spherical glass diffusers with fine glass thread decoration inside. Steel cables adjustable in length.",
+                            "product_dimension": {
+                                "text": "\u00d8 60,5 x H min 36 / max 128 cm G9 max 10 x 40W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "orbital_sp10/descArt/artwork0.png",
+                                    "orbital_sp10/descArt/artwork1.png",
+                                    "orbital_sp10/descArt/artwork2.png"
+                                ],
+                                "alternate_artworks": [
+                                    "orbital_sp10/altArt/alternate0.png",
+                                    "orbital_sp10/altArt/alternate1.jpg",
+                                    "orbital_sp10/altArt/alternate2.jpg"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "orbital_sp18",
+                            "product_name": "IDEAL LUX ORBITAL SP18",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/orbital_sp18/",
+                            "product_subcategory": "Hanging",
+                            "product_description": "code 073859 Chrome frame composed of rotating concentric rings. Spherical glass diffusers with fine glass thread decoration inside. Steel cables adjustable in length.",
+                            "product_dimension": {
+                                "text": "\u00d8 80,5 x H min 36 / max 130 cm G9 max 18 x 40W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "orbital_sp18/descArt/artwork0.png",
+                                    "orbital_sp18/descArt/artwork1.png",
+                                    "orbital_sp18/descArt/artwork2.png"
+                                ],
+                                "alternate_artworks": [
+                                    "orbital_sp18/altArt/alternate0.png",
+                                    "orbital_sp18/altArt/alternate1.jpg",
+                                    "orbital_sp18/altArt/alternate2.jpg"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "orbital_sp14",
+                            "product_name": "IDEAL LUX ORBITAL SP14",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/orbital_sp14/",
+                            "product_subcategory": "Hanging",
+                            "product_description": "code 073835 Chrome frame composed of rotating concentric rings. Spherical glass diffusers with fine glass thread decoration inside. Steel cables adjustable in length.",
+                            "product_dimension": {
+                                "text": "\u00d8 72 x H min 36 / max 130 cm G9 max 14 x 40W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "orbital_sp14/descArt/artwork0.png",
+                                    "orbital_sp14/descArt/artwork1.png",
+                                    "orbital_sp14/descArt/artwork2.png"
+                                ],
+                                "alternate_artworks": [
+                                    "orbital_sp14/altArt/alternate0.png",
+                                    "orbital_sp14/altArt/alternate1.jpg",
+                                    "orbital_sp14/altArt/alternate2.jpg"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "comfort_sp1",
+                            "product_name": "IDEAL LUX COMFORT SP1",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/comfort_sp1/",
+                            "product_subcategory": "Hanging",
+                            "product_description": "code 159553 Matt varnished metal ceiling cup and body. Steel wires adjustable in length. White acid-etched blown glass diffuser.",
+                            "product_dimension": {
+                                "text": "\u00d8 48 x H min 35 / max 124 cm E27 max 1 x 60W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "comfort_sp1/descArt/artwork0.png",
+                                    "comfort_sp1/descArt/artwork1.png"
+                                ],
+                                "alternate_artworks": [
+                                    "comfort_sp1/altArt/alternate0.png",
+                                    "comfort_sp1/altArt/alternate1.png",
+                                    "comfort_sp1/altArt/alternate2.png",
+                                    "comfort_sp1/altArt/alternate3.jpg"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "konse_sp1",
+                            "product_name": "IDEAL LUX KONSE SP1",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/konse_sp1/",
+                            "product_subcategory": "Hanging",
+                            "product_description": "code 155968 Totally metal frame and decorative elements. Satin dark gold varnish finish.",
+                            "product_dimension": {
+                                "text": "\u00d8 40 x H min 78 / max 170 cm E27 max 1 x 60W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "konse_sp1/descArt/artwork0.png",
+                                    "konse_sp1/descArt/artwork1.png"
+                                ],
+                                "alternate_artworks": [
+                                    "konse_sp1/altArt/alternate0.png"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "konse_sp7",
+                            "product_name": "IDEAL LUX KONSE SP7",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/konse_sp7/",
+                            "product_subcategory": "Hanging",
+                            "product_description": "code 156033 Totally metal frame and decorative elements. Satin dark gold varnish finish.",
+                            "product_dimension": {
+                                "text": "\u00d8 80 x H min 126 / max 198 cm E27 max 7 x 60W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "konse_sp7/descArt/artwork0.png",
+                                    "konse_sp7/descArt/artwork1.png"
+                                ],
+                                "alternate_artworks": [
+                                    "konse_sp7/altArt/alternate0.png",
+                                    "konse_sp7/altArt/alternate1.jpg"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "konse_sp6",
+                            "product_name": "IDEAL LUX KONSE SP6",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/konse_sp6/",
+                            "product_subcategory": "Hanging",
+                            "product_description": "code 156026 Totally metal frame and decorative elements. Satin dark gold varnish finish.",
+                            "product_dimension": {
+                                "text": "\u00d8 60 x H min 102 / max 174 cm E27 max 6 x 60W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "konse_sp6/descArt/artwork0.png",
+                                    "konse_sp6/descArt/artwork1.png"
+                                ],
+                                "alternate_artworks": [
+                                    "konse_sp6/altArt/alternate0.png",
+                                    "konse_sp6/altArt/alternate1.jpg"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "disco_sp1",
+                            "product_name": "IDEAL LUX DISCO SP1",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/disco_sp1/",
+                            "product_subcategory": "Hanging",
+                            "product_description": "code 103723 Rotating circular decorative elements adjustable at will. Available in metal with white or matt black finish and in natural wood.",
+                            "product_dimension": {
+                                "text": "\u00d8 46 x H min 65 / max 118 cm E27 max 1 x 60W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "disco_sp1/descArt/artwork0.png",
+                                    "disco_sp1/descArt/artwork1.png"
+                                ],
+                                "alternate_artworks": [
+                                    "disco_sp1/altArt/alternate0.png",
+                                    "disco_sp1/altArt/alternate1.png",
+                                    "disco_sp1/altArt/alternate2.png",
+                                    "disco_sp1/altArt/alternate3.jpg"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "space_sp12",
+                            "product_name": "IDEAL LUX SPACE SP12",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/space_sp12/",
+                            "product_subcategory": "Hanging",
+                            "product_description": "code 165080 Totally matt varnished metal frame and decorative elements. Steel cables adjustable in length.",
+                            "product_dimension": {
+                                "text": "\u00d8 87,5 x H min 20 / max 95 cm E14 max 12 x 40W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "space_sp12/descArt/artwork0.png",
+                                    "space_sp12/descArt/artwork1.png"
+                                ],
+                                "alternate_artworks": [
+                                    "space_sp12/altArt/alternate0.png",
+                                    "space_sp12/altArt/alternate1.png",
+                                    "space_sp12/altArt/alternate2.jpg"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "toronto_sp5",
+                            "product_name": "IDEAL LUX TORONTO SP5",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/toronto_sp5/",
+                            "product_subcategory": "Hanging",
+                            "product_description": "code 195285 Matt varnished laser shaped metal base. It fits replaceable LED GX53.",
+                            "product_dimension": {
+                                "text": "L 80 x H min 16 / max 112 x P 60 cm GX53 max 5 x 15W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "toronto_sp5/descArt/artwork0.png",
+                                    "toronto_sp5/descArt/artwork1.png",
+                                    "toronto_sp5/descArt/artwork2.png"
+                                ],
+                                "alternate_artworks": [
+                                    "toronto_sp5/altArt/alternate0.png",
+                                    "toronto_sp5/altArt/alternate1.png",
+                                    "toronto_sp5/altArt/alternate2.jpg"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "leaves_sp12",
+                            "product_name": "IDEAL LUX LEAVES SP12",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/leaves_sp12/",
+                            "product_subcategory": "Hanging",
+                            "product_description": "code 112268 Metal frame. Hand-shaped blown glass decorative elements. Suspension lamps provided with steel cables adjustable in length. Available with chrome frame and smoky grey glass leaves or with white frame and white glass leaves.",
+                            "product_dimension": {
+                                "text": "\u00d8 80 x H min 70 / max 140 cm G9 max 12 x 40W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "leaves_sp12/descArt/artwork0.png",
+                                    "leaves_sp12/descArt/artwork1.png",
+                                    "leaves_sp12/descArt/artwork2.png"
+                                ],
+                                "alternate_artworks": [
+                                    "leaves_sp12/altArt/alternate0.png",
+                                    "leaves_sp12/altArt/alternate1.jpg"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "leaves_sp8",
+                            "product_name": "IDEAL LUX LEAVES SP8",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/leaves_sp8/",
+                            "product_subcategory": "Hanging",
+                            "product_description": "code 111957 Metal frame. Hand-shaped blown glass decorative elements. Suspension lamps provided with steel cables adjustable in length. Available with chrome frame and smoky grey glass leaves or with white frame and white glass leaves.",
+                            "product_dimension": {
+                                "text": "\u00d8 63 x H min 70 / max 140 cm G9 max 8 x 40W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "leaves_sp8/descArt/artwork0.png",
+                                    "leaves_sp8/descArt/artwork1.png",
+                                    "leaves_sp8/descArt/artwork2.png"
+                                ],
+                                "alternate_artworks": [
+                                    "leaves_sp8/altArt/alternate0.png",
+                                    "leaves_sp8/altArt/alternate1.png",
+                                    "leaves_sp8/altArt/alternate2.jpg"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "corallo_sp12",
+                            "product_name": "IDEAL LUX CORALLO SP12",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/corallo_sp12/",
+                            "product_subcategory": "Hanging",
+                            "product_description": "code 074689 Chrome metal spherical frame and details. Handcrafted and colored glass decorative elements.",
+                            "product_dimension": {
+                                "text": "\u00d8 75 x H min 79 / max 130 cm G9 max 12 x 40W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "corallo_sp12/descArt/artwork0.png",
+                                    "corallo_sp12/descArt/artwork1.png",
+                                    "corallo_sp12/descArt/artwork2.png"
+                                ],
+                                "alternate_artworks": [
+                                    "corallo_sp12/altArt/alternate0.png",
+                                    "corallo_sp12/altArt/alternate1.jpg",
+                                    "corallo_sp12/altArt/alternate2.jpg"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "corallo_sp8",
+                            "product_name": "IDEAL LUX CORALLO SP8",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/corallo_sp8/",
+                            "product_subcategory": "Hanging",
+                            "product_description": "code 086576 Chrome metal spherical frame and details. Handcrafted and colored glass decorative elements.",
+                            "product_dimension": {
+                                "text": "\u00d8 50 x H min 65 / max 130 cm G9 max 8 x 40W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "corallo_sp8/descArt/artwork0.png",
+                                    "corallo_sp8/descArt/artwork1.png",
+                                    "corallo_sp8/descArt/artwork2.png"
+                                ],
+                                "alternate_artworks": [
+                                    "corallo_sp8/altArt/alternate0.png",
+                                    "corallo_sp8/altArt/alternate1.jpg",
+                                    "corallo_sp8/altArt/alternate2.jpg"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "pauline_sp8",
+                            "product_name": "IDEAL LUX PAULINE SP8",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/pauline_sp8/",
+                            "product_subcategory": "Hanging",
+                            "product_description": "code 115801 Chrome metal frame. Blown hand-shaped glass decorative elements. Suspension lamps provided with steel cables adjustable in length.",
+                            "product_dimension": {
+                                "text": "\u00d8 53 x H min 80 / max 130 cm G9 max 8 x 40W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "pauline_sp8/descArt/artwork0.png",
+                                    "pauline_sp8/descArt/artwork1.png",
+                                    "pauline_sp8/descArt/artwork2.png"
+                                ],
+                                "alternate_artworks": [
+                                    "pauline_sp8/altArt/alternate0.png",
+                                    "pauline_sp8/altArt/alternate1.jpg"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "vortex_sp6",
+                            "product_name": "IDEAL LUX VORTEX SP6",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/vortex_sp6/",
+                            "product_subcategory": "Hanging",
+                            "product_description": "code 101613 Matt white painted metal frame. Hand 10 shaped and hand painted with gold or silver enamel decorative metal elements.",
+                            "product_dimension": {
+                                "text": "\u00d8 53 x H min 65 / max 115 cm E14 max 6 x 40W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "vortex_sp6/descArt/artwork0.png",
+                                    "vortex_sp6/descArt/artwork1.png"
+                                ],
+                                "alternate_artworks": [
+                                    "vortex_sp6/altArt/alternate0.png",
+                                    "vortex_sp6/altArt/alternate1.png",
+                                    "vortex_sp6/altArt/alternate2.jpg"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "dust_sp12",
+                            "product_name": "IDEAL LUX DUST SP12",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/dust_sp12/",
+                            "product_subcategory": "Hanging",
+                            "product_description": "code 114361 Tube-shaped handcrafted silver aluminum frame. Electrical cable adjustable in length.",
+                            "product_dimension": {
+                                "text": "\u00d8 62 x H min 70 / max 200 cm G9 max 12 x 40W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "dust_sp12/descArt/artwork0.png",
+                                    "dust_sp12/descArt/artwork1.png",
+                                    "dust_sp12/descArt/artwork2.png"
+                                ],
+                                "alternate_artworks": [
+                                    "dust_sp12/altArt/alternate0.png",
+                                    "dust_sp12/altArt/alternate1.jpg"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "dust_sp8",
+                            "product_name": "IDEAL LUX DUST SP8",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/dust_sp8/",
+                            "product_subcategory": "Hanging",
+                            "product_description": "code 114811 Tube-shaped handcrafted silver aluminum frame. Electrical cable adjustable in length.",
+                            "product_dimension": {
+                                "text": "\u00d8 46 x H min 60 / max 180 cm G9 max 8 x 40W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "dust_sp8/descArt/artwork0.png",
+                                    "dust_sp8/descArt/artwork1.png",
+                                    "dust_sp8/descArt/artwork2.png"
+                                ],
+                                "alternate_artworks": [
+                                    "dust_sp8/altArt/alternate0.png",
+                                    "dust_sp8/altArt/alternate1.jpg"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "dea_sp12",
+                            "product_name": "IDEAL LUX DEA SP12",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/dea_sp12/",
+                            "product_subcategory": "Hanging",
+                            "product_description": "code 074771 Chrome or white spherical frame and bulb socket cover. Steel cable adjustable in length with automatic blocking devices.",
+                            "product_dimension": {
+                                "text": "\u00d8 50 x H min 53 / max 120 cm E27 max 12 x 42W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "dea_sp12/descArt/artwork0.png",
+                                    "dea_sp12/descArt/artwork1.png",
+                                    "dea_sp12/descArt/artwork2.png"
+                                ],
+                                "alternate_artworks": [
+                                    "dea_sp12/altArt/alternate0.png"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "dea_sp20",
+                            "product_name": "IDEAL LUX DEA SP20",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/dea_sp20/",
+                            "product_subcategory": "Hanging",
+                            "product_description": "code 074801 Chrome or white spherical frame and bulb socket cover. Steel cable adjustable in length with automatic blocking devices.",
+                            "product_dimension": {
+                                "text": "\u00d8 55 x H min 58 / max 120 cm E27 max 20 x 42W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "dea_sp20/descArt/artwork0.png",
+                                    "dea_sp20/descArt/artwork1.png",
+                                    "dea_sp20/descArt/artwork2.png"
+                                ],
+                                "alternate_artworks": [
+                                    "dea_sp20/altArt/alternate0.png",
+                                    "dea_sp20/altArt/alternate1.jpg",
+                                    "dea_sp20/altArt/alternate2.jpg"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "category_name": "Ceiling",
+                    "products": [
+                        {
+                            "product_id": "octopus_pl6",
+                            "product_name": "IDEAL LUX OCTOPUS PL6",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/octopus_pl6/",
+                            "product_subcategory": "Ceiling",
+                            "product_description": "code 174921 Metal base with matt finish. Flexible arms covered with rubber. Blown and sandblasted clear glass diffusers.",
+                            "product_dimension": {
+                                "text": "\u00d8 50 x H 34 cm G9 max 6 x 28W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "octopus_pl6/descArt/artwork0.png",
+                                    "octopus_pl6/descArt/artwork1.png",
+                                    "octopus_pl6/descArt/artwork2.png"
+                                ],
+                                "alternate_artworks": [
+                                    "octopus_pl6/altArt/alternate0.png",
+                                    "octopus_pl6/altArt/alternate1.png"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "octopus_pl9",
+                            "product_name": "IDEAL LUX OCTOPUS PL9",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/octopus_pl9/",
+                            "product_subcategory": "Ceiling",
+                            "product_description": "code 174990 Metal base with matt finish. Flexible arms covered with rubber. Blown and sandblasted clear glass diffusers.",
+                            "product_dimension": {
+                                "text": "\u00d8 70 x H 34 cm G9 max 9 x 28W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "octopus_pl9/descArt/artwork0.png",
+                                    "octopus_pl9/descArt/artwork1.png",
+                                    "octopus_pl9/descArt/artwork2.png"
+                                ],
+                                "alternate_artworks": [
+                                    "octopus_pl9/altArt/alternate0.png",
+                                    "octopus_pl9/altArt/alternate1.jpg"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "mallow_pl7",
+                            "product_name": "IDEAL LUX MALLOW PL7",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/mallow_pl7/",
+                            "product_subcategory": "Ceiling",
+                            "product_description": "code 174419 Metal base and arms with matt varnish finish. Blown sandblasted clear glass diffusers.",
+                            "product_dimension": {
+                                "text": "L 85 x H 30 x P 65 cm G9 max 7 x 28W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "mallow_pl7/descArt/artwork0.png",
+                                    "mallow_pl7/descArt/artwork1.png",
+                                    "mallow_pl7/descArt/artwork2.png"
+                                ],
+                                "alternate_artworks": [
+                                    "mallow_pl7/altArt/alternate0.png",
+                                    "mallow_pl7/altArt/alternate1.jpg"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "leaves_pl6",
+                            "product_name": "IDEAL LUX LEAVES PL6",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/leaves_pl6/",
+                            "product_subcategory": "Ceiling",
+                            "product_description": "code 112299 Metal frame. Hand-shaped blown glass decorative elements. Suspension lamps provided with steel cables adjustable in length. Available with chrome frame and smoky grey glass leaves or with white frame and white glass leaves.",
+                            "product_dimension": {
+                                "text": "\u00d8 80 x H 43 cm G9 max 6 x 40W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "leaves_pl6/descArt/artwork0.png",
+                                    "leaves_pl6/descArt/artwork1.png",
+                                    "leaves_pl6/descArt/artwork2.png"
+                                ],
+                                "alternate_artworks": [
+                                    "leaves_pl6/altArt/alternate0.png"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "corallo_pl6",
+                            "product_name": "IDEAL LUX CORALLO PL6",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/corallo_pl6/",
+                            "product_subcategory": "Ceiling",
+                            "product_description": "code 074627 Chrome metal spherical frame and details. Handcrafted and colored glass decorative elements.",
+                            "product_dimension": {
+                                "text": "\u00d8 75 x H 40,5 cm G9 max 6 x 40W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "corallo_pl6/descArt/artwork0.png",
+                                    "corallo_pl6/descArt/artwork1.png",
+                                    "corallo_pl6/descArt/artwork2.png"
+                                ],
+                                "alternate_artworks": [
+                                    "corallo_pl6/altArt/alternate0.png",
+                                    "corallo_pl6/altArt/alternate1.jpg"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "pauline_pl5",
+                            "product_name": "IDEAL LUX PAULINE PL5",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/pauline_pl5/",
+                            "product_subcategory": "Ceiling",
+                            "product_description": "code 111117 Chrome metal frame. Blown hand-shaped glass decorative elements. Suspension lamps provided with steel cables adjustable in length.",
+                            "product_dimension": {
+                                "text": "\u00d8 70 x H 31 cm G9 max 5 x 40W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "pauline_pl5/descArt/artwork0.png",
+                                    "pauline_pl5/descArt/artwork1.png",
+                                    "pauline_pl5/descArt/artwork2.png"
+                                ],
+                                "alternate_artworks": [
+                                    "pauline_pl5/altArt/alternate0.png"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "vortex_pl5",
+                            "product_name": "IDEAL LUX VORTEX PL5",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/vortex_pl5/",
+                            "product_subcategory": "Ceiling",
+                            "product_description": "code 101590 Matt white painted metal frame. Hand 10 shaped and hand painted with gold or silver enamel decorative metal elements.",
+                            "product_dimension": {
+                                "text": "\u00d8 64 x H 33 cm E14 max 5 x 40W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "vortex_pl5/descArt/artwork0.png",
+                                    "vortex_pl5/descArt/artwork1.png"
+                                ],
+                                "alternate_artworks": [
+                                    "vortex_pl5/altArt/alternate0.png"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "vortex_pl3",
+                            "product_name": "IDEAL LUX VORTEX PL3",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/vortex_pl3/",
+                            "product_subcategory": "Ceiling",
+                            "product_description": "code 101576 Matt white painted metal frame. Hand 10 shaped and hand painted with gold or silver enamel decorative metal elements.",
+                            "product_dimension": {
+                                "text": "\u00d8 56 x H 26 cm E14 max 3 x 40W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "vortex_pl3/descArt/artwork0.png",
+                                    "vortex_pl3/descArt/artwork1.png"
+                                ],
+                                "alternate_artworks": [
+                                    "vortex_pl3/altArt/alternate0.png"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "dea_pl10",
+                            "product_name": "IDEAL LUX DEA PL10",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/dea_pl10/",
+                            "product_subcategory": "Ceiling",
+                            "product_description": "code 074740 Chrome or white spherical frame and bulb socket cover. Steel cable adjustable in length with automatic blocking devices.",
+                            "product_dimension": {
+                                "text": "\u00d8 55 x H 23,5 cm E27 max 10 x 20W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "dea_pl10/descArt/artwork0.png",
+                                    "dea_pl10/descArt/artwork1.png",
+                                    "dea_pl10/descArt/artwork2.png"
+                                ],
+                                "alternate_artworks": [
+                                    "dea_pl10/altArt/alternate0.png"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "category_name": "Wall",
+                    "products": [
+                        {
+                            "product_id": "barby_ap1_small",
+                            "product_name": "IDEAL LUX BARBY AP1 SMALL",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/barby_ap1_small/",
+                            "product_subcategory": "Applique",
+                            "product_description": "code 190808 Matt varnished metal base and frame. Opal color plastic diffuser screen. Integrated LED sources.",
+                            "product_dimension": {
+                                "text": "20000h 440lumen L 14,5 x H 14 x P 15 cm LED 8W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "barby_ap1_small/descArt/artwork0.png",
+                                    "barby_ap1_small/descArt/artwork1.png",
+                                    "barby_ap1_small/descArt/artwork2.png"
+                                ],
+                                "alternate_artworks": [
+                                    "barby_ap1_small/altArt/alternate0.png"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "barby_ap1_medium",
+                            "product_name": "IDEAL LUX BARBY AP1 MEDIUM",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/barby_ap1_medium/",
+                            "product_subcategory": "Applique",
+                            "product_description": "code 190815 Matt varnished metal base and frame. Opal color plastic diffuser screen. Integrated LED sources.",
+                            "product_dimension": {
+                                "text": "20000h 1170lumen L 24,5 x H 23,5 x P 20,5 cm LED 18W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "barby_ap1_medium/descArt/artwork0.png",
+                                    "barby_ap1_medium/descArt/artwork1.png",
+                                    "barby_ap1_medium/descArt/artwork2.png"
+                                ],
+                                "alternate_artworks": [
+                                    "barby_ap1_medium/altArt/alternate0.png"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "octopus_ap3",
+                            "product_name": "IDEAL LUX OCTOPUS AP3",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/octopus_ap3/",
+                            "product_subcategory": "Applique",
+                            "product_description": "code 175072 Metal base with matt finish. Flexible arms covered with rubber. Blown and sandblasted clear glass diffusers.",
+                            "product_dimension": {
+                                "text": "\u00d8 40 x P 34 cm G9 max 3 x 28W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "octopus_ap3/descArt/artwork0.png",
+                                    "octopus_ap3/descArt/artwork1.png",
+                                    "octopus_ap3/descArt/artwork2.png"
+                                ],
+                                "alternate_artworks": [
+                                    "octopus_ap3/altArt/alternate0.png"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "versus_ap40",
+                            "product_name": "IDEAL LUX VERSUS AP40",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/versus_ap40/",
+                            "product_subcategory": "Applique",
+                            "product_description": "code 137018 Chrome metal frame. Decorative elements are made of square mesh fob-chains. Steel wires adjustable in length with automatic blocking mechanisms.",
+                            "product_dimension": {
+                                "text": "30000h 800lumen L 32,5 x H 21 x P 9 cm LED 8W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "versus_ap40/descArt/artwork0.png",
+                                    "versus_ap40/descArt/artwork1.png",
+                                    "versus_ap40/descArt/artwork2.png"
+                                ],
+                                "alternate_artworks": [
+                                    "versus_ap40/altArt/alternate0.png"
+                                ]
+                            }
+                        },
+                        {
+                            "product_id": "corallo_ap3",
+                            "product_name": "IDEAL LUX CORALLO AP3",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/corallo_ap3/",
+                            "product_subcategory": "Applique",
+                            "product_description": "code 081960 Chrome metal spherical frame and details. Handcrafted and colored glass decorative elements.",
+                            "product_dimension": {
+                                "text": "\u00d8 50 x P 22,5 cm G9 max 3 x 40W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "corallo_ap3/descArt/artwork0.png",
+                                    "corallo_ap3/descArt/artwork1.png",
+                                    "corallo_ap3/descArt/artwork2.png"
+                                ],
+                                "alternate_artworks": [
+                                    "corallo_ap3/altArt/alternate0.png",
+                                    "corallo_ap3/altArt/alternate1.jpg"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "category_name": "Recessed",
+                    "products": []
+                },
+                {
+                    "category_name": "Table",
+                    "products": [
+                        {
+                            "product_id": "mallow_tl2",
+                            "product_name": "IDEAL LUX MALLOW TL2",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/mallow_tl2/",
+                            "product_subcategory": "Table",
+                            "product_description": "code 174433 Metal base and arms with matt varnish finish. Blown sandblasted clear glass diffusers.",
+                            "product_dimension": {
+                                "text": "L 26 x H 38 x P 15 cm G9 max 2 x 28W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "mallow_tl2/descArt/artwork0.png",
+                                    "mallow_tl2/descArt/artwork1.png",
+                                    "mallow_tl2/descArt/artwork2.png"
+                                ],
+                                "alternate_artworks": [
+                                    "mallow_tl2/altArt/alternate0.png"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "category_name": "Floor",
+                    "products": [
+                        {
+                            "product_id": "mallow_pt6",
+                            "product_name": "IDEAL LUX MALLOW PT6",
+                            "product_url": "https://www.ideal-lux.com/en/products/indoor/mallow_pt6/",
+                            "product_subcategory": "Floor",
+                            "product_description": "code 174426 Metal base and arms with matt varnish finish. Blown sandblasted clear glass diffusers.",
+                            "product_dimension": {
+                                "text": "\u00d8 28 x H 172 cm G9 max 6 x 28W ",
+                                "image": null
+                            },
+                            "product_artworks": {
+                                "description_artworks": [
+                                    "mallow_pt6/descArt/artwork0.png",
+                                    "mallow_pt6/descArt/artwork1.png",
+                                    "mallow_pt6/descArt/artwork2.png"
+                                ],
+                                "alternate_artworks": [
+                                    "mallow_pt6/altArt/alternate0.png"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
