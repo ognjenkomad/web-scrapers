@@ -1,0 +1,32 @@
+{
+    "categories": [
+        {
+            "category_name": "Interior floodlights",
+            "category_url": "http://catalogo.fosnova.it/en/interior-floodlights",
+            "skip_scraping": []
+        },
+        {
+            "category_name": "Recessed downlights",
+            "category_url": "http://catalogo.fosnova.it/en/recessed-downlights",
+            "skip_scraping": []
+        },
+        {
+            "category_name": "Wall appliques",
+            "category_url": "http://catalogo.fosnova.it/en/wall-appliques",
+            "skip_scraping": []
+        },
+        {
+            "category_name": "Architectural led systems",
+            "category_url": "http://catalogo.fosnova.it/en/architectural-led-systems",
+            "skip_scraping": []
+        },
+        {
+            "category_name": "Food lighting led",
+            "category_url": "http://catalogo.fosnova.it/en/fosnova-led-solutions/food-lighting-led",
+            "skip_scraping": []
+        }
+    ],
+    "language_param": "?language=ENG",
+    "base_url": "http://catalogo.fosnova.it",
+    "interactive": false
+}

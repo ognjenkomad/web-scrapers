@@ -42,15 +42,15 @@ def get_product_collection(main_product):
             for img_tag in slider_div:
                 src_img = img_tag['data-zoom-image']
                 prim_img = requests.get(src_img)            
-                with open(article_id + "/altArt/" + "alternate" + str(j) + src_img[-4:], "wb") as prim_img_file:
+                with open(article_id + "/altArt/" + article_id + "_" + "alternate" + str(j) + src_img[-4:], "wb") as prim_img_file:
                     prim_img_file.write(prim_img.content)             
-                alt_artworks.append(article_id + "/altArt/" + "alternate" + str(j) + src_img[-4:])
+                alt_artworks.append(article_id + "/altArt/" + article_id + "_" + "alternate" + str(j) + src_img[-4:])
                 j+=1
             for img_tag in desc_art.find_all('img'):
                 img_contents = requests.get(img_tag['src']);
-                with open(article_id + "/descArt/" + "artwork" + str(i) + ".png", "wb") as img_file:
+                with open(article_id + "/descArt/" + article_id + "_" + "artwork" + str(i) + ".png", "wb") as img_file:
                     img_file.write(img_contents.content)
-                desc_artworks.append(article_id + "/descArt/" + "artwork" + str(i) + ".png")
+                desc_artworks.append(article_id + "/descArt/" + article_id + "_" + "artwork" + str(i) + ".png")
                 i+=1
             product_dict = {
                 "product_id" : article_id,
@@ -99,15 +99,15 @@ def get_product(product_url):
     for img_tag in slider_div:
         src_img = img_tag['data-zoom-image']
         prim_img = requests.get(src_img)            
-        with open(article_id + "/altArt/" + "alternate" + str(j) + src_img[-4:], "wb") as prim_img_file:
+        with open(article_id + "/altArt/" + article_id + "_" + "alternate" + str(j) + src_img[-4:], "wb") as prim_img_file:
             prim_img_file.write(prim_img.content)             
-        alt_artworks.append(article_id + "/altArt/" + "alternate" + str(j) + src_img[-4:])
+        alt_artworks.append(article_id + "/altArt/" + article_id + "_" + "alternate" + str(j) + src_img[-4:])
         j+=1
     for img_tag in desc_art.find_all('img'):
         img_contents = requests.get(img_tag['src']);
-        with open(article_id + "/descArt/" + "artwork" + str(i) + ".png", "wb") as img_file:
+        with open(article_id + "/descArt/" + article_id + "_" + "artwork" + str(i) + ".png", "wb") as img_file:
             img_file.write(img_contents.content)
-        desc_artworks.append(article_id + "/descArt/" + "artwork" + str(i) + ".png")
+        desc_artworks.append(article_id + "/descArt/" + article_id + "_" + "artwork" + str(i) + ".png")
         i+=1
 
     product_collection = get_product_collection(article_url)
