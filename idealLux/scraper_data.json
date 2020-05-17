@@ -1,0 +1,104 @@
+{
+    "category": [
+        {
+            "category_name" : "Indoor",
+            "category_url" : "https://www.ideal-lux.com/en/products/indoor/",
+            "subcategories" : [
+                {
+                    "category_name" : "Suspension",
+                    "products" : []
+                },
+                {
+                    "category_name" : "Ceiling",
+                    "products" : []
+                },
+                {
+                    "category_name" : "Wall",
+                    "products" : []
+                },
+                {
+                    "category_name" : "Recessed",
+                    "products" : []
+                },
+                {
+                    "category_name" : "Table",
+                    "products" : []
+                },
+                {
+                    "category_name" : "Floor",
+                    "products" : []
+                }
+            ]
+        },
+        {
+            "category_name" : "Outdoor",
+            "category_url" : "https://www.ideal-lux.com/en/products/outdoor/",
+            "subcategories" : [
+                {
+                    "category_name" : "Suspension",
+                    "products" : []
+                },
+                {
+                    "category_name" : "Ceiling",
+                    "products" : []
+                },
+                {
+                    "category_name" : "Wall",
+                    "products" : []
+                },
+                {
+                    "category_name" : "Recessed",
+                    "products" : []
+                },
+                {
+                    "category_name" : "Table",
+                    "products" : []
+                },
+                {
+                    "category_name" : "Floor",
+                    "products" : []
+                }
+            ]
+        },
+        {
+            "category_name" : "Technical",
+            "category_url" : "https://www.ideal-lux.com/en/products/technical/",
+            "subcategories" : [
+                {
+                    "category_name" : "Suspension",
+                    "products" : []
+                },
+                {
+                    "category_name" : "Ceiling",
+                    "products" : []
+                },
+                {
+                    "category_name" : "Wall",
+                    "products" : []
+                },
+                {
+                    "category_name" : "Recessed",
+                    "products" : []
+                },
+                {
+                    "category_name" : "Tracklight",
+                    "products" : []
+                },
+                {
+                    "category_name" : "Linear System",
+                    "products" : []
+                }
+            ]
+        },
+        {
+            "category_name" : "Bulbs",
+            "category_url" : "https://www.ideal-lux.com/en/products/bulbs/",
+            "subcategories" : [
+                {
+                    "category_name" : "Bulbs",
+                    "products" : []
+                }
+            ]
+        }
+    ]
+}

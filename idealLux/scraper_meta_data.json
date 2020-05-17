@@ -1,0 +1,15 @@
+{
+    "skip_categories": [],
+    "Indoor": {
+        "page_no": 25
+    },
+    "Outdoor": {
+        "page_no": 5
+    },
+    "Technical": {
+        "page_no": 5
+    },
+    "Bulbs": {
+        "page_no": 0
+    }
+}
